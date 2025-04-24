@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/d7a7719546fec035b5fc452f678a3a73-c78f0c6b48f5473080709dd8f19ca212-2.mp4",
+        "title": "一国两制",
+        "duration": 534000,
+        "source": "央视网",
+        "publishTime": "2023-12-14 16:28:09",
+        "topic": "非凡新时代",
+        "editor": "孙洁、霍筠霞"
+    },
+    {
+        "id": "2",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/31537aac06c7e197d307d86296cd4b8f-0d1f4ac810904168bb17e0f2094f3ca3-2.mp4",
+        "title": "国家安全",
+        "duration": 584000,
+        "source": "央视网",
+        "publishTime": "2023-12-14 15:57:10",
+        "topic": "非凡新时代",
+        "editor": "孙洁、霍筠霞"
+    },
+    {
+        "id": "3",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/04b62fd6020653cbd88de078c28a22e7-871f164fa2a44187b266ab6548a4a5a3-2.mp4",
+        "title": "教育强国",
+        "duration": 603000,
+        "source": "央视网",
+        "publishTime": "2023-12-12 17:34:03",
+        "topic": "非凡新时代",
+        "editor": "杨洋"
+    },
+    {
+        "id": "4",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/6feb2e4233420943e2b4b3e08b7d438b-a772259cda804d3c82202d7a026b0c08-2.mp4",
+        "title": "科技强国",
+        "duration": 505000,
+        "source": "央视网",
+        "publishTime": "2023-12-08 16:16:53",
+        "topic": "非凡新时代",
+        "editor": "蒋豪文"
+    },
+    {
+        "id": "5",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/beb2d055d8f5e1040cdbcd72d7bdee4d-390bdf3e70784f2fa9ed8a38e15d566d-2.mp4",
+        "title": "良法善治",
+        "duration": 369000,
+        "source": "央视网",
+        "publishTime": "2023-12-04 14:39:24",
+        "topic": "非凡新时代",
+        "editor": "郭雪莹"
+    },
+    {
+        "id": "6",
+        "url": "https://boot-video.xuexi.cn/video/1006/p/7ccbc1e67218de6b43ba43f81e9ca3c3-466179a92b1a4828acad92a666959d65-2.mp4",
+        "title": "人间奇迹",
+        "duration": 645000,
+        "source": "央视网",
+        "publishTime": "2023-11-22 09:28:21",
+        "topic": "非凡新时代",
+        "editor": "李彬玉"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/tv_video_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="视频标题"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tv_video_duration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="时长: 00:00"
+        android:textSize="14sp"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:id="@+id/tv_video_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="来源"
+        android:textSize="14sp"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:id="@+id/tv_video_publish_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发布时间: yyyy-MM-dd"
+        android:textSize="14sp"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:id="@+id/tv_video_topic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="主题"
+        android:textSize="14sp"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:id="@+id/tv_video_editor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="责任编辑: 编辑姓名"
+        android:textSize="14sp"
+        android:textColor="#666666"/>
+</LinearLayout>
